@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item> 
-<title>Ip Man 2</title> 
-<urlsolve>https://www.youtube.com/watch?v=SjRvuxcdedo</urlsolve>
+<title>Spartacus 1x1</title> 
+<urlsolve>https://www.youtube.com/watch?v=xTu5WpiXOU0</urlsolve>
+<thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+item> 
+<title>Spartacus 1x2</title> 
+<urlsolve>https://www.youtube.com/watch?v=3ldOr0jtyOQ&has_verified=1</urlsolve>
 <thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
