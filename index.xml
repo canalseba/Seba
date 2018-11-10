@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item> 
-<title>Seba</title> 
+<title>Ip Man</title> 
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/canalseba/Seba/master/test1.xml</externallink>
 </item>
 
 <item>
-<title></title> 
+<title>Ip Man2</title> 
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/canalseba/Seba/master/test2.xml</externallink>
 </item>
 
 <item>
