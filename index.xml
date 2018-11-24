@@ -3,7 +3,7 @@
 <item> 
 <title>Películas</title> 
 <thumbnail>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/tape.ico</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/FanartSeba.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/canalseba/Seba/master/test1.xml</externallink>
 </item>
@@ -11,7 +11,7 @@
 <item>
 <title>Spartacus (Sangre y Arena)</title> 
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/FanartSeba.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/canalseba/Seba/master/test2.xml</externallink>
 </item>
@@ -19,7 +19,7 @@
 <item>
 <title>Series</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/FanartSeba.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
