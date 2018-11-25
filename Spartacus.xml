@@ -3,7 +3,7 @@
  <item> 
 <title>Spartacus "Temporada 1" [COLOR green] Sangre y Arena (HD)[/COLOR]</title> 
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart><fanart>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/Sangre.jpg</fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/canalseba/Seba/master/Sp1.xml</externallink>
 </item>
@@ -11,7 +11,7 @@
 <item>
 <title>Spartacus "Temporada 2" [COLOR green] Dioses de la Arena (HD)[/COLOR]</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart><fanart>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/Dioses.jpg</fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/canalseba/Seba/master/Sp2.xml</externallink>
 </item>
@@ -19,7 +19,7 @@
 <item>
 <title>Spartacus "Temporada 3" [COLOR green] Venganza (HD)[/COLOR]</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart><fanart>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/Venganza.jpg</fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/canalseba/Seba/master/Sp3.xml</externallink>
 </item>
@@ -27,7 +27,7 @@
 <item>
 <title>Spartacus "Temporada 4" [COLOR green] La Guerra de los Condenados (HD)[/COLOR]</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart><fanart>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/Condenados.jpg</fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/canalseba/Seba/master/Sp4.xml</externallink>
 </item>
