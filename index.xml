@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item> 
-<title>Películas</title> 
+<title>[COLOR gold]Películas[/COLOR]</title> 
 <thumbnail></thumbnail>
 <fanart>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/Peliculas.jpg</fanart>
 <link>http://ignoreme</link>
@@ -9,15 +9,15 @@
 </item>
 
 <item>
-<title>Películas Dibujos</title> 
+<title>[COLOR gold]Películas Dibujos[/COLOR]</title> 
 <thumbnail></thumbnail>
-<fanart>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/Ralph.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/Ralph3.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/canalseba/Seba/master/test2.xml</externallink>
 </item>
 
 <item>
-<title>Series</title>
+<title>[COLOR gold]Series[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart>https://raw.githubusercontent.com/canalseba/Seba/master/RepoSeba/Series1.jpg</fanart>
 <link>http://ignoreme</link>
